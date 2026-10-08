@@ -32,7 +32,7 @@ Cada repositorio explica el objetivo del proyecto, su implementación y cómo co
 | [BBDD](https://github.com/rfguillen/bbdd) | Consultas SQL, diseño de esquemas y restricciones de integridad |
 | [Arquitectura de Redes](https://github.com/rfguillen/ar) | Direccionamiento y encaminamiento RIP en una simulación de Cisco Packet Tracer |
 
-## 🛠️ Tecnologías Utilizadas en los proyectos
+## Tecnologías Utilizadas en los proyectos
 
 **Lenguajes:** Java · C · C++ · Python · SQL  
 **Software:** JavaFX · Maven · Jackson · Flex · Bison · Make  
