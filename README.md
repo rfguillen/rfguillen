@@ -30,7 +30,7 @@ Cada repositorio explica el objetivo del proyecto, su implementación y cómo co
 | [AED2](https://github.com/rfguillen/aed2) | Divide y vencerás, algoritmos voraces y backtracking aplicados a búsqueda y optimización |
 | [ALF](https://github.com/rfguillen/alf) | Procesamiento y validación de registros mediante expresiones regulares en Python |
 | [BBDD](https://github.com/rfguillen/bbdd) | Consultas SQL, diseño de esquemas y restricciones de integridad |
-| [Arquitectura de Redes](https://github.com/rfguillen/ar) | Direccionamiento y encaminamiento RIP en una simulación de Cisco Packet Tracer |
+| [Arquitectura de Redes](https://github.com/rfguillen/ar) | Direccionamiento y configuración de RIP y OSFP en una escenario en Cisco Packet Tracer |
 
 ## Tecnologías Utilizadas en los proyectos
 
