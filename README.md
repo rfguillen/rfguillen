@@ -7,7 +7,7 @@
 
 </div>
 
-Este es mi portfolio académico, donde se encuentras mis proyectos realizados durante el grado.
+Este es mi portfolio académico, donde se encuentran mis proyectos realizados durante el grado.
 
 Cada repositorio explica el objetivo del proyecto, su implementación y cómo consultar o ejecutar el material publicado.
 
